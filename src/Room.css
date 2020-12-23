@@ -1,0 +1,15 @@
+.room {
+    min-height: 800px;
+}
+
+.dark{
+    background-color: black;
+}
+
+.bright{
+    background-color: #FFFF00;
+}
+
+h3{
+    color: chocolate;
+}
