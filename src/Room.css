@@ -4,12 +4,18 @@
 
 .dark{
     background-color: black;
+    
 }
 
 .bright{
     background-color: #FFFF00;
+    
 }
 
-h3{
-    color: chocolate;
+.dark h3{
+    color: white;
+}
+
+.bright h3{
+    color: black;
 }
